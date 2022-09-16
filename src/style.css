@@ -1,1 +1,25 @@
-/* styles go here */
+
+.fieldset__area {
+
+  margin-bottom: 20px;
+}
+
+.label,
+.color,
+.time,
+.cars,
+.cats {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.recommend,
+.work,
+.password,
+.agreement {
+  margin-bottom: 0;
+}
+
+/* label:last-child {
+  margin-bottom: 0;
+} */
